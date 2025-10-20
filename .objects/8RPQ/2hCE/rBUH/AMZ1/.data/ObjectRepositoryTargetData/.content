@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vOwlwQMs1EqHWqZgf8Xp4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="95da2212-0778-41fb-b90b-90b6e0bd69bc" CvElementArea="706, 328, 1148, 56" CvType="Button" DesignTimeRectangle="711, 330, 1140, 54" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='div_error' tag='DIV' type='' class='alert alert-danger nobottommargin text-center show' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;  &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Error: Marque el cuadro de verificación o captcha!...' /&gt;" Guid="6ca3e76a-17b4-4e22-8b06-491d58c1c5c6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="95da2212-0778-41fb-b90b-90b6e0bd69bc" CvTextArea="710, 262, 467, 31" CvTextArgument="CONSULTA LUGAR DE VOTACIÓN" CvType="Text" DesignTimeRectangle="711, 266, 1140, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='' aaname='CONSULTA LUGAR DE VOTACIÓN' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='CONSULTA LUGAR DE VOTACIÓN' /&gt;" Guid="657b67dd-2804-4cdd-9a4c-905e929467ff" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6c85b1ce940f8d2b43f7a747df3946b3.png" xmlns="">0z1LpDVTCikS5JiD7HwjtYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AuVqlgVVC0Kmk5rtXR-E3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" DesignTimeRectangle="1299, 519, 300, 100" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='consulta' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='IMG' /&gt;" Guid="d7c78732-77a9-4f4e-90f8-4bbdd9bbaf4e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4021c9fb4356fab5384aada40bac373b.png" xmlns="">0ATuQzIGb5EqV-_A1TQAGqQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ClickTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

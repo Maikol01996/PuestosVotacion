@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mUJaR3BzAUGZuDfOpujlNg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" DesignTimeRectangle="1299, 519, 300, 100" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='consulta' tag='TABLE' /&gt;&lt;webctrl css-selector='body&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;a' href='http://mapas.bogota.gov.co/?l=585&amp;amp;e=-74.119240861,4.670049755,-74.119240861,4.670049755,4686&amp;amp;b=261&amp;amp;p=-74.119240861,4.670049755' parentid='consulta' parentname='form' tableCol='1' tableRow='3' tag='A' /&gt;&lt;webctrl tableRow='3' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl id='consulta' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl href='http://mapas.bogota.gov.co/?l=585&amp;amp;e=-74.119240861,4.670049755,-74.119240861,4.670049755,4686&amp;amp;b=261&amp;amp;p=-74.119240861,4.670049755' parentid='consulta' parentname='form' tag='A' matching:href='fuzzy' fuzzylevel:href='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:parentname='fuzzy' fuzzylevel:parentname='0.0' /&gt;&lt;webctrl type='' tag='IMG' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d38700d8-d46e-4646-b4b0-5498b1f727d5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1118, 411, 662, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='nobottommargin' aaname='INFORMACIÓN DEL LUGAR DE VOTACIÓN' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='INFORMACIÓN DEL LUGAR DE VOTACIÓN' /&gt;" Guid="48f57ace-aa7a-40a0-8b69-97f498a3780e" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c10be4109cbe4788e3a493071e0f9539.png" xmlns="">00DAAN7xuoE-BLGbw50p8eQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

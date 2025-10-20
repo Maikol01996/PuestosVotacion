@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HmHXxRjtVEeRdrHkNW5T7A" Reference="ApnNuMFj-0i6jEQJDMxPqg/O1KkR1i1F0iSDKgeN0deRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="9b3e302f-f294-4033-b669-7af12c37b32c" DesignTimeRectangle="1467, 476, 272, 35" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='consulta' tag='TABLE' /&gt;&lt;webctrl tableCol='5' tableRow='2' tag='TD' /&gt;" Guid="d4694e77-a384-4e03-a413-9418e032b561" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9b3e302f-f294-4033-b669-7af12c37b32c" CvTextArea="1624, 447, 68, 15" CvTextArgument="DIRECCIÓN" CvType="Text" DesignTimeRectangle="1467, 442, 272, 34" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='consulta' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='DIRECCIÓN' type='' tag='TH' class='text-center' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='DIRECCIÓN' /&gt;" Guid="88e1af93-95ac-47a6-8a54-5a408dad597c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5696e82b59a3a727b2b2da371b04571b.png" xmlns="">0RQErBrNc2EObxDvOUxKP2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

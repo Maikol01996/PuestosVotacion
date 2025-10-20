@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gOb_Frw0A0CzrBw2-GOHbA" Reference="ApnNuMFj-0i6jEQJDMxPqg/hT0Sv-RQhkeeX5e0LWabvg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" DesignTimeRectangle="787, 434, 387, 60" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='nuip' tag='INPUT' type='text' class='form-control' placeholder='Digíte el número sin puntos ni comas' aaname='El nùmero de cèdula debe ser de 2 a 10 dígitos' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="7888b560-522c-45d9-9b61-32a4d575909a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f122b46c-f1e6-4015-9fcd-0d308ac08f3f" CvTextArea="765, 364, 158, 15" CvTextArgument="No. Identificación:" CvType="Text" DesignTimeRectangle="767, 391, 157, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='No. Identificación:' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='No. Identificación:' /&gt;" Guid="eb025c44-f6a6-4157-838f-e12f1402a6be" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3340f090c493b98160fe762f047e64dc.png" xmlns="">0TmiYyntUykeYfR2N4ZatQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

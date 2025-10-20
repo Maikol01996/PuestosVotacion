@@ -1,0 +1,14 @@
+﻿{
+  "Name": "DIRECCIÓN",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "O1KkR1i1F0iSDKgeN0deRQ",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/O1KkR1i1F0iSDKgeN0deRQ",
+  "ParentRef": "ApnNuMFj-0i6jEQJDMxPqg/rBUHoigKCk62fsK6q2A55A",
+  "Created": "2025-10-08T20:02:20.5593677Z",
+  "Updated": "2025-10-08T20:02:20.5593677Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

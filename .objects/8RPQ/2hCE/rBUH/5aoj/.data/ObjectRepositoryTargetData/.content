@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sE1Mxk1cfkO4NOaaqKSJJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="98d3ae98-fa9b-4610-a6ca-cd6c8b19c83c" CvElementArea="840, 762, 158, 50" CvTextArea="871, 780, 94, 14" CvTextArgument="CONSULTAR" CvType="Button" DesignTimeRectangle="843, 765, 152, 45" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='enviar' tag='INPUT' /&gt;" Guid="662ca6fe-3d07-4724-b78a-691e19e3b424" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="98d3ae98-fa9b-4610-a6ca-cd6c8b19c83c" CvTextArea="770, 577, 295, 15" CvTextArgument="MARQUE EL CUADRO DE VERIFICACIÓN:" CvType="Text" DesignTimeRectangle="771, 577, 295, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='form' tag='LABEL' type='' class='' aaname='Marque el cuadro de verificación:' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='MARQUE EL CUADRO DE VERIFICACIÓN:' /&gt;" Guid="2891f246-430b-4672-a864-27b663d487e0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1440b072e897d75bed750e1b025dc1f1.png" xmlns="">08NqbPSK8YEmgi_BAZBZmzg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

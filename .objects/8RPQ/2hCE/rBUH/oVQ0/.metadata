@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Obtén el enlace (URL) del elemento de la interfaz de usuario especificado y asígnale a LinkUbicacionExtraido(1)",
+  "Type": "Element",
+  "Id": "oVQ06dazP0GCVS1rtArYDA",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/oVQ06dazP0GCVS1rtArYDA",
+  "ParentRef": "ApnNuMFj-0i6jEQJDMxPqg/rBUHoigKCk62fsK6q2A55A",
+  "Created": "2025-10-09T22:12:56.5268322Z",
+  "Updated": "2025-10-09T22:12:56.5268322Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

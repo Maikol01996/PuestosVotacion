@@ -1,0 +1,13 @@
+﻿{
+  "Name": "INFORMACIÓN DEL LUGAR D…",
+  "Type": "Element",
+  "Id": "aoW43PjPVkuWzkQVlIjKgQ",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/aoW43PjPVkuWzkQVlIjKgQ",
+  "ParentRef": "ApnNuMFj-0i6jEQJDMxPqg/rBUHoigKCk62fsK6q2A55A",
+  "Created": "2025-10-09T15:04:46.3762596Z",
+  "Updated": "2025-10-09T15:04:46.3762596Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

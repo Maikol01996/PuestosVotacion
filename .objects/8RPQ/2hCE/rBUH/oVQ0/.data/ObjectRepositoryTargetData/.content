@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="g7EUu2YsAUWBuZsvyktwsw" Reference="ApnNuMFj-0i6jEQJDMxPqg/d6p9bTsA_UaEv6WKsjOtfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="27c9e3f6-15e5-4a0c-b168-dc0db652b784" DesignTimeRectangle="1103, 441, 692, 23" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='CODE' /&gt;" Guid="ed04add8-e3e0-4e0c-b323-d592cbfacd41" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="27c9e3f6-15e5-4a0c-b168-dc0db652b784" CvTextArea="1245, 413, 407, 22" CvTextArgument="INFORMACIÓN DEL LUGAR DE VOTACIÓN" CvType="Text" DesignTimeRectangle="1118, 411, 662, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='nobottommargin' aaname='INFORMACIÓN DEL LUGAR DE VOTACIÓN' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='INFORMACIÓN DEL LUGAR DE VOTACIÓN' /&gt;" Guid="ef5a7466-2d43-4ba2-96e6-fc7c0ffb93a0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d21b7e52b540e3018c03ee00959ac400.png" xmlns="">0eK-yZKiE2kqff9JMDVLzRA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

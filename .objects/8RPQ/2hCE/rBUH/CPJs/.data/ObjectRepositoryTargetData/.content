@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LbLv4YzSt02yYaWd3_2_5g" Reference="ApnNuMFj-0i6jEQJDMxPqg/CPJsc_Ds8UyHzxCViaN81Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" DesignTimeRectangle="1299, 565, 300, 100" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='consulta' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl id='consulta' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl type='' tag='IMG' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="e0ca8167-242c-460d-8f78-7ae41dabc257" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1118, 440, 662, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='nobottommargin' aaname='INFORMACIÓN DEL LUGAR DE VOTACIÓN' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='INFORMACIÓN DEL LUGAR DE VOTACIÓN' /&gt;" Guid="5047ef7a-1709-41dc-86f3-366df9992227" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="95193d0bf1e26564f99e8d0b2a67c5d8.png" xmlns="">0pFp3ei_bqEm-WkqolCF9vw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

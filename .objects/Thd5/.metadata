@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Puestos de Votación.",
+  "Type": "App",
+  "Id": "Thd5d2k-d0yn2V2t5voqHQ",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/Thd5d2k-d0yn2V2t5voqHQ",
+  "Created": "2025-10-10T02:06:43.0479839Z",
+  "Updated": "2025-10-10T02:06:43.0479839Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

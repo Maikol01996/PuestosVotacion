@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fOjvXMyf70q-p3d-C2ZyXw" Reference="ApnNuMFj-0i6jEQJDMxPqg/sgaEwGYz5UC7UuN4uXUung" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="fcc40e31-3c19-42c3-84aa-5584543e14fb" CvElementArea="765, 512, 307, 60" CvType="InputBox" DesignTimeRectangle="767, 513, 387, 60" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='tipo' tag='SELECT' type='' class='sm-form-control' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="9befb655-2b4e-4709-aa21-67ef74ba7462" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fcc40e31-3c19-42c3-84aa-5584543e14fb" CvTextArea="766, 492, 197, 15" CvTextArgument="Seleccione la elección:" CvType="Text" DesignTimeRectangle="767, 490, 198, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Seleccione la elección:' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Seleccione la elección:' /&gt;" Guid="4c00ec50-12b5-4ca8-93e3-8f8ff7ecb17d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="24296b75d85dcf171bbe0bc51d443ac9.png" xmlns="">0XfqnJAwmakCnz0WAYLDE7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

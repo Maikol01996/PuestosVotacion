@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HJnEJ-uENUibj-04V1fcDA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="ffaad78d-55c5-4d46-996f-cf79e182c5ea" DesignTimeRectangle="1209, 475, 143, 35" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='consulta' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tableRow='2' tag='TD' /&gt;" Guid="a56f8300-39a2-454b-b98a-c846af96ffb9" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ffaad78d-55c5-4d46-996f-cf79e182c5ea" CvTextArea="1229, 450, 101, 12" CvTextArgument="DEPARTAMENTO" CvType="Text" DesignTimeRectangle="1209, 441, 143, 34" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='consulta' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='DEPARTAMENTO' type='' tag='TH' class='text-center' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='DEPARTAMENTO' /&gt;" Guid="224c384c-d18a-42de-b64c-2301440c2db9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="19337844170c6db0f3987db6e2b2580f.png" xmlns="">09hzGdjajnEWZDY86f4-5Lw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

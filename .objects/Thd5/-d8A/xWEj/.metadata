@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Puestos de Votación.",
+  "Type": "Screen",
+  "Id": "xWEjEzp65U6PT9IcSUvqaQ",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/xWEjEzp65U6PT9IcSUvqaQ",
+  "ParentRef": "ApnNuMFj-0i6jEQJDMxPqg/-d8AmJD7rkOcMRS2abRITw",
+  "Created": "2025-10-10T02:06:43.1329068Z",
+  "Updated": "2025-10-10T02:06:43.1329068Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

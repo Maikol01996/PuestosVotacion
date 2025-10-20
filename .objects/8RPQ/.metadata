@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Censo nacional electoral  Registraduría Nacional del Estado Civil",
+  "Type": "App",
+  "Id": "8RPQy6rgIEifitY80pEtwQ",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/8RPQy6rgIEifitY80pEtwQ",
+  "Created": "2025-10-07T16:20:27.7981297Z",
+  "Updated": "2025-10-07T16:20:27.7981297Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

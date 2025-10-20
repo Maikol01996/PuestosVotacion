@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6ac2qz077E22syqu6gGNvw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="ec070e18-4224-4f05-82ea-5ffc49db6c17" DesignTimeRectangle="1299, 549, 300, 100" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='consulta' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='IMG' /&gt;" Guid="7a5392ef-e3db-4a09-9208-4c42cc7cd5d5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ec070e18-4224-4f05-82ea-5ffc49db6c17" DesignTimeRectangle="1118, 441, 662, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='nobottommargin' aaname='INFORMACIÓN DEL LUGAR DE VOTACIÓN' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='INFORMACIÓN DEL LUGAR DE VOTACIÓN' /&gt;" Guid="1987e56d-46be-474a-a4f0-a3f0ab04a148" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c10be4109cbe4788e3a493071e0f9539.png" xmlns="">05NxPmaGX2kyMv2FeaagLaQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

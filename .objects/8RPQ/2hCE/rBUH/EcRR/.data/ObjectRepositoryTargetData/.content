@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tzZBs9JjsU-qov59gPfJ-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="fde0d16b-9c86-4ea0-9f6a-bcc6c90802c8" DesignTimeRectangle="1299, 519, 300, 100" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='consulta' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='IMG' /&gt;" Guid="37a138e4-db59-4f44-aac8-6a76cc5a3ba8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fde0d16b-9c86-4ea0-9f6a-bcc6c90802c8" CvTextArea="1360, 683, 177, 18" CvTextArgument="Señor Ciudadano:" CvType="Text" DesignTimeRectangle="1361, 679, 175, 27" FuzzySelectorArgument="&lt;webctrl parentid='success' tag='B' type='' class='' aaname='Señor Ciudadano:' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Señor Ciudadano:' /&gt;" Guid="fe78b78e-b915-4197-a0fd-d46ff59711d3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="15cb20f684c28c0d6c676ad54df1ff57.png" xmlns="">0368vS0jPZ06eAfGoO5BD6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KOalQ55iXEeJQDP78Rzr2g" Reference="ApnNuMFj-0i6jEQJDMxPqg/XQdxk9_D2kOUySTtbzKYuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="wsp.registraduria.gov.co/censo/consultar" CVScreenId="696c2fb8-b52b-4d15-87ad-9a1861d5e69c" CvTextArea="1457, 632, 137, 12" CvTextArgument="mapas.bogota.gov.co" CvType="Text" DesignTimeRectangle="1299, 565, 300, 100" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='consulta' tag='TABLE' /&gt;&lt;webctrl tableRow='3' tag='IMG' /&gt;" Guid="af327eaa-63e9-4e78-a6c8-26cd207de024" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Censo nacional electoral | Registraduría Nacional del Estado Civil' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="696c2fb8-b52b-4d15-87ad-9a1861d5e69c" CvTextArea="1244, 443, 408, 21" CvTextArgument="INFORMACIÓN DEL LUGAR DE VOTACIÓN" CvType="Text" DesignTimeRectangle="1118, 440, 662, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='nobottommargin' aaname='INFORMACIÓN DEL LUGAR DE VOTACIÓN' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='INFORMACIÓN DEL LUGAR DE VOTACIÓN' /&gt;" Guid="68b91e0f-3257-4160-94cc-0550306c691b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a2f83d75e437c2da8163c9ae7629cc95.png" xmlns="">00830FA1RNUalqWZB14z1jA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

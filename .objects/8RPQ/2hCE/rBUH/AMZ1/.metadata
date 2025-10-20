@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Error Marque el cuadro…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "AMZ1QIpOUUOjjahoxOgxVw",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/AMZ1QIpOUUOjjahoxOgxVw",
+  "ParentRef": "ApnNuMFj-0i6jEQJDMxPqg/rBUHoigKCk62fsK6q2A55A",
+  "Created": "2025-10-09T00:23:14.7566388Z",
+  "Updated": "2025-10-09T00:23:14.7566388Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

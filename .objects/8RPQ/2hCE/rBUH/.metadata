@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Censo nacional electoral  Registraduría ",
+  "Type": "Screen",
+  "Id": "rBUHoigKCk62fsK6q2A55A",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/rBUHoigKCk62fsK6q2A55A",
+  "ParentRef": "ApnNuMFj-0i6jEQJDMxPqg/2hCEBH2ZO0SNRX9iWlccDw",
+  "Created": "2025-10-07T16:20:28.1117302Z",
+  "Updated": "2025-10-07T16:20:28.1117302Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INFORMACIÓN DEL LUGAR D…(4)",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "Ul6NA9nXYkqOoaVCirygmA",
+  "Reference": "ApnNuMFj-0i6jEQJDMxPqg/Ul6NA9nXYkqOoaVCirygmA",
+  "ParentRef": "ApnNuMFj-0i6jEQJDMxPqg/rBUHoigKCk62fsK6q2A55A",
+  "Created": "2025-10-13T21:23:43.5676992Z",
+  "Updated": "2025-10-13T21:23:43.5676992Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
